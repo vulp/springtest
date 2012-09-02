@@ -20,7 +20,7 @@ public class controller {
 	public String getMovie(@PathVariable String name, ModelMap model) {
 
 		model.addAttribute("message", name);
-		return "hello";
+		return "hello"; //test
 
 	}
 }
