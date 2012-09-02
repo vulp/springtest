@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: spring-context-support-3.0.5.RELEASE.jar spring-webmvc-3.0
+ .5.RELEASE.jar spring-aop-3.0.5.RELEASE.jar spring-beans-3.0.5.RELEAS
+ E.jar spring-web-3.0.5.RELEASE.jar junit-4.5.jar spring-tx-3.0.5.RELE
+ ASE.jar spring-expression-3.0.5.RELEASE.jar spring-asm-3.0.5.RELEASE.
+ jar aopalliance-1.0.jar spring-context-3.0.5.RELEASE.jar commons-logg
+ ing-1.1.1.jar spring-jdbc-3.0.5.RELEASE.jar spring-core-3.0.5.RELEASE
+ .jar log4j-1.2.16.jar
+Main-Class: 
+
