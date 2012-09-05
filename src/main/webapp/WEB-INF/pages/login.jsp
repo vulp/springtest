@@ -13,7 +13,7 @@
 </style>
 </head>
 <body onload='document.f.j_username.focus();'>
-	<h3>Login with Username and Password (Authentication with Database)</h3>
+	<h3>Login with Username and Password</h3>
 
 	<c:if test="${not empty error}">
 		<div class="errorblock">
@@ -38,11 +38,7 @@
 			</tr>
 			<tr>
 				<td colspan='2'><input name="submit" type="submit"
-					value="submit" />
-				</td>
-			</tr>
-			<tr>
-				<td colspan='2'><input name="reset" type="reset" />
+					value="Login" />
 				</td>
 			</tr>
 		</table>

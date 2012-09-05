@@ -31,9 +31,7 @@ public class LoginController {
 
     @RequestMapping(value="/login", method = RequestMethod.GET)
     public String login(ModelMap model) {
-
         return "login";
-
     }
 
     @RequestMapping(value="/loginfailed", method = RequestMethod.GET)
